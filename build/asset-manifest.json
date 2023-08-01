@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.387ba82c.css",
+    "main.js": "/static/js/main.478e9c8c.js",
+    "static/media/collage.png": "/static/media/collage.b1fb114abc50e71ae46f.png",
+    "static/media/bannerHome.jpg": "/static/media/bannerHome.89f1ebd03b1150d256d3.jpg",
+    "static/media/audio-dsp.gif": "/static/media/audio-dsp.05fab20bdf73f3a65bd7.gif",
+    "static/media/event banner.png": "/static/media/event banner.dcd6f341d3343872929c.png",
+    "static/media/kaksh1.png": "/static/media/kaksh1.fb3ac0953613fad9626f.png",
+    "static/media/rox.ttf": "/static/media/rox.9125fc0356b43576475d.ttf",
+    "static/media/kakshLogo.png": "/static/media/kakshLogo.80a4808722f2c5f401d8.png",
+    "index.html": "/index.html",
+    "main.387ba82c.css.map": "/static/css/main.387ba82c.css.map",
+    "main.478e9c8c.js.map": "/static/js/main.478e9c8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.387ba82c.css",
+    "static/js/main.478e9c8c.js"
+  ]
+}
